@@ -3,7 +3,7 @@ History
 -------
 
 
-4.3.0 (2026-08-25)
+4.3.0 (unreleased)
 ++++++++++++++++++
 
 - Support lineno, cursorpos, lines-in-file and alternate-language on heartbeats,
